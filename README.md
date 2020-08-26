@@ -19,9 +19,9 @@ Un schéma **générique** est à utiliser seulement si votre schéma n'est pas 
 
 Nous détaillons ci-dessous les étapes que nous vous conseillons de suivre après avoir créé votre dépôt Git, tout en utilisant les fichiers d'exemples.
 
-- [ ] Décrire votre schéma dans le fichier `schema.xml` en incluant au moins les clés suivantes : `title`, `description`, `homepage` et `version`. Le fichier d'exemple comprend des valeurs d'exemples pour toutes les métadonnées possibles
+- [ ] Décrire votre schéma dans le fichier `schema.yml` en incluant au moins les clés suivantes : `title`, `description`, `homepage` et `version`. Le fichier d'exemple comprend des valeurs d'exemples pour toutes les métadonnées possibles
 - [ ] Modifier le fichier [`README.md`](README.md), en supprimant tout son contenu tout d'abord. Au sein de plusieurs paragraphes, vous indiquerez le contexte, les modalités de production des données, le cadre juridique, la finalité, les cas d’usage etc. Consultez plusieurs schémas sur [schema.data.gouv.fr](https://schema.data.gouv.fr) pour découvrir quelles informations sont pertinentes à indiquer
-- [ ] Vérifier que la licence ouverte vous convient. Si vous devez utiliser une autre licence, modifiez le fichier [`LICENSE.md`](LICENSE.md) et indiquez la licence dans le fichier [`schema.json`](schema.json), dans la clé `licenses`
+- [ ] Vérifier que la licence ouverte vous convient. Si vous devez utiliser une autre licence, modifiez le fichier [`LICENSE.md`](LICENSE.md)
 
 ## Documentation
 
