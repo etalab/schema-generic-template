@@ -1,6 +1,4 @@
-# schema-generic
-
-# Template de départ pour Table Schema
+# Template de départ pour un schéma générique
 
 Ce dépôt contient les fichiers nécessaires pour démarrer la création d'un dépôt d'un schéma **générique** pour un référencement sur [schema.data.gouv.fr](https://schema.data.gouv.fr).
 
